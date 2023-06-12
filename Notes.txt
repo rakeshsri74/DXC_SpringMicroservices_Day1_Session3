@@ -1,0 +1,2 @@
+Eureka Server:
+	Is an application that holds the information about all client-service applications.Every micro service will 	register into the Eureka Server and Eureka Server knows all the client application running on each port and 	Ip Address.Eureka server also known as Discovery Server.

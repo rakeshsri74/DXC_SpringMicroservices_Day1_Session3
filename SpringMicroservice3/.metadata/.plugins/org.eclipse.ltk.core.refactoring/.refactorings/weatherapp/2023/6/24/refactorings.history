@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Weather.java&apos; to &apos;weatherclient/src/main/java/com.dxc.model&apos;&#x0D;&#x0A;- Original project: &apos;weatherapp&apos;&#x0D;&#x0A;- Destination element: &apos;weatherclient/src/main/java/com.dxc.model&apos;&#x0D;&#x0A;- Original element: &apos;com.dxc.model.Weather.java&apos;" description="Copy compilation unit" destination="=weatherclient/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.dxc.model" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.dxc.model{Weather.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1686562848095" units="1" version="1.0"/>
+</session>
